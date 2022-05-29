@@ -1,0 +1,20 @@
+{
+  "files": {
+    "index.ts": [
+      {
+        "id": "a970d891-123b-4d2c-a85e-0074921a5db2",
+        "line": 5,
+        "version": 351,
+        "index": 246
+      }
+    ],
+    "server.js": [
+      {
+        "id": "9632a207-5c58-471d-934b-3b1eafb611ce",
+        "line": 1,
+        "version": 119,
+        "index": 0
+      }
+    ]
+  }
+}

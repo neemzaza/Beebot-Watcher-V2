@@ -1,0 +1,1 @@
+Original code on npm run dev : tsc -p . && nodemon dist/index
